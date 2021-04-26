@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "outDir": "out",
+        "inlineSourceMap": true,
+        "allowJs": true,
+        "noImplicitUseStrict": true,
+    //    "noImplicitAny": true,
+        "noImplicitThis": true,
+    //    "noImplicitReturns": true,
+    //    "strictNullChecks": true,
+    //    "strictPropertyInitialization": true,
+        "lib" : ["es6"],
+        "downlevelIteration": true
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "types": [
+        "node"
+    ]
+}
