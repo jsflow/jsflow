@@ -16,12 +16,17 @@ Alternatively, if you don't have make, use tsc directly from the node_modules di
 
         ./node_modules/typescript/bin/tsc
 
+# Running
 
-# Policies
+Run jsflow via the jsflow Python script
+
+        ./jsflow
+
+The script requires Python 2.7 and you might have to change the name of the interpreter. If you want to run jsflow 
+directly via Node.js, simply run
 
 
-
-
+        node out/Toplevel/nodejs/NodeFlow.js
 
 # Contributors
 
