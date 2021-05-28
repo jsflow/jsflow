@@ -31,10 +31,10 @@ directly via Node.js, simply run
 # Contributors
 
 * Daniel Hedin
-* Andrei Sabelfeld 
+* Andrei Sabelfeld
+* Alexander Sjösten
 
 Former contributors:
 
 * Arnar Birgisson
 * Luciano Bello
-* Alexander Sjösten
